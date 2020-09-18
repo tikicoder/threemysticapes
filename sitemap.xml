@@ -35,8 +35,8 @@
 <url> <loc>https://www.threemysticapes.com/blog/tag/security</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/technology</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/series/cloudwhatsnext</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.threemysticapes.com/blog/mysticape/iwazaru</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/mysticape/kikazaru</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.threemysticapes.com/blog/mysticape/iwazaru</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/mysticape/mizaru</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/mysticape/shizaru</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
