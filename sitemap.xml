@@ -13,11 +13,13 @@
 <url> <loc>https://www.threemysticapes.com/blog/2020/9/cloudwhatsnext/part-1/cloud-what-is-next</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/2020/9/cloudwhatsnext/part-2/cloud-what-is-next-process-and-people</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/2020/9/cloudwhatsnext/part-3/cloud-what-is-next-lost-in-the-cloud</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.threemysticapes.com/blog/2020/9/cloudwhatsnext/part-4/cloud-what-is-next-app-evaluation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/2020/9/greenwork-tools-review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/2020/9/nueuralink</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/2020/9/samsung-note-20-ultra</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/2020/9</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.threemysticapes.com/blog/tag/application</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/aws</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/azure</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/brain</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -30,10 +32,12 @@
 <url> <loc>https://www.threemysticapes.com/blog/tag/people</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/phone</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/process</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.threemysticapes.com/blog/tag/refactor</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/samsung</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/security</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/technology</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.threemysticapes.com/blog/tag/wcag</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/series/cloudwhatsnext</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/mysticape/iwazaru</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/mysticape/kikazaru</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
