@@ -6,6 +6,7 @@
 <url> <loc>https://www.threemysticapes.com/blog/tag</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/series</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/mysticape</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.threemysticapes.com/search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/legal/privacy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/2020/9/azure-bicep-adding-the-adding-muscle-to-arm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -16,6 +17,7 @@
 <url> <loc>https://www.threemysticapes.com/blog/2020/9/cloudwhatsnext/part-4/cloud-what-is-next-app-evaluation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/2020/9/greenwork-tools-review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/2020/9/nueuralink</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.threemysticapes.com/blog/2020/9/random-knowledge-september-24-2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/2020/9/samsung-note-20-ultra</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/2020/9</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -23,15 +25,19 @@
 <url> <loc>https://www.threemysticapes.com/blog/tag/aws</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/azure</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/brain</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.threemysticapes.com/blog/tag/bug</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/cloud</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/data</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/gcp</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.threemysticapes.com/blog/tag/history</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/iot</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.threemysticapes.com/blog/tag/ms-ignite</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/neuralink</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/note20</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/people</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/phone</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/process</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.threemysticapes.com/blog/tag/random-knowledge</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/refactor</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.threemysticapes.com/blog/tag/samsung</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
