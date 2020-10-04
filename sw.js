@@ -68,7 +68,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "6e00c1cbc8324cf5bb1a216953fa164a"
+    "revision": "64479e28f552dfbc90f9322f9b765be9"
   },
   {
     "url": "page-data/sq/d/1984615537.json",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/3424372577.json",
-    "revision": "f848f70f06d9d0e82379ed8384733d12"
+    "revision": "1fae7128f9a08ae9c3d175087b508a79"
   },
   {
     "url": "page-data/sq/d/350099740.json",
@@ -127,14 +127,14 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/2020/page-data.json",
-    "revision": "8dec5f0b8d78ede2ec428f1c755b2710"
+    "revision": "9ce1c0c8bf596d3e1c473f3d8ce01f37"
   },
   {
     "url": "component---src-templates-blog-blog-js-16f08df505dd4d981437.js"
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "2721668717df1e5b6192eecf977d4f93"
+    "revision": "e141a631243dc878e573a202e7cd7433"
   },
   {
     "url": "component---src-templates-blog-mystic-apes-js-419a4bb829e0247a0190.js"
@@ -148,7 +148,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/series/page-data.json",
-    "revision": "e6b97018ded1404d8ef69772f6cc4a34"
+    "revision": "5c5fc3dff9ba02e86a25ed4f7edaf47f"
   },
   {
     "url": "component---src-templates-blog-tag-js-99f4191d60f9630a6aa1.js"
