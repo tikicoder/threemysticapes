@@ -27,17 +27,17 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-21892fa4ea9f2f4c0782.js"
+    "url": "webpack-runtime-dd10b9e76fa2679fd438.js"
   },
   {
-    "url": "framework-62aa192001dd5d50f28d.js"
+    "url": "framework-16bc5478e030ce10c05d.js"
   },
   {
-    "url": "app-55a0f14c1c3377c61ad1.js"
+    "url": "app-685caf41683c14cb0a79.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "f72fe62cedd0b172ca4de34ccad3cff8"
+    "revision": "5e0b93bab8f13e2f24c55592f1ab0e1d"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js"
@@ -58,17 +58,17 @@ self.__precacheManifest = [
     "url": "a9a7754c-21b30b1bbd0164a7ef7c.js"
   },
   {
-    "url": "de5d1ec2b3494da8c5f36adade182d818073e173-cc287ee12972ff48f7d8.js"
+    "url": "de5d1ec2b3494da8c5f36adade182d818073e173-2a73810e5088b20f6d5c.js"
   },
   {
-    "url": "1412f27805f833e8c7f8a2743fd97427d9836162-8965dd521ee333829263.js"
+    "url": "1412f27805f833e8c7f8a2743fd97427d9836162-ccab39958455cbe042eb.js"
   },
   {
-    "url": "component---src-templates-page-page-js-f773068c791cc0d4684c.js"
+    "url": "component---src-templates-page-page-js-b6055e438d02afbe8dda.js"
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "6f66a6bc6b6e8e788bfe54926d5e0e6a"
+    "revision": "4eeb326244ef4f6d601d3c5653e9358b"
   },
   {
     "url": "page-data/sq/d/1984615537.json",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/547522633.json",
-    "revision": "515454c79a2b5186db6632cbaba80b7e"
+    "revision": "a3627cc9448cd9b7d0b3f0f4c667be71"
   },
   {
     "url": "page-data/sq/d/63159454.json",
@@ -120,38 +120,38 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "193e23e78c3d545c79718f72b5f9e6f0"
+    "revision": "51e82b54b5a5aa489eba4f5cc6d626e8"
   },
   {
-    "url": "component---src-templates-blog-year-month-year-js-41ce876b83fe78660895.js"
+    "url": "component---src-templates-blog-year-month-year-js-72cbed1b73c9d4cb7294.js"
   },
   {
     "url": "page-data/blog/2020/page-data.json",
-    "revision": "036c8bd83af97056861ad93f00ebb421"
+    "revision": "dde5af4aa1ae756c80ead41fe454644d"
   },
   {
-    "url": "component---src-templates-blog-blog-js-16f08df505dd4d981437.js"
+    "url": "component---src-templates-blog-blog-js-8a2318cc947abe85f71a.js"
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "1f0e2801ee21d085e0a7a72ee27ffc97"
+    "revision": "3740ca2cb7a942898fdb5a8e59d3a790"
   },
   {
-    "url": "component---src-templates-blog-mystic-apes-js-419a4bb829e0247a0190.js"
+    "url": "component---src-templates-blog-mystic-apes-js-dd0678b0330d931a2740.js"
   },
   {
     "url": "page-data/blog/mysticape/page-data.json",
     "revision": "7261e104d930bc7b3fa17ba6925e18cf"
   },
   {
-    "url": "component---src-templates-blog-series-js-d28df444da9b130bff22.js"
+    "url": "component---src-templates-blog-series-js-aac0512598eafa93944f.js"
   },
   {
     "url": "page-data/blog/series/page-data.json",
-    "revision": "4aaa7478a850b84a1d7438bad86fb77b"
+    "revision": "69fac88db050e4a3faa3ab744ee73eff"
   },
   {
-    "url": "component---src-templates-blog-tag-js-99f4191d60f9630a6aa1.js"
+    "url": "component---src-templates-blog-tag-js-a7f6a9c203eafaa5b934.js"
   },
   {
     "url": "page-data/blog/tag/page-data.json",
@@ -251,7 +251,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-55a0f14c1c3377c61ad1.js`))) {
+  if (!resources || !(await caches.match(`/app-685caf41683c14cb0a79.js`))) {
     return await fetch(event.request)
   }
 
