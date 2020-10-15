@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-04c47426cbe9c1736042.js"
+    "url": "webpack-runtime-f196f06694c8d4bf557b.js"
   },
   {
     "url": "framework-16bc5478e030ce10c05d.js"
@@ -37,7 +37,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "87f24adffdd7c24f478eb29b116507dc"
+    "revision": "251994d5b2767e5592c40124338f96d6"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js"
@@ -46,7 +46,7 @@ self.__precacheManifest = [
     "url": "polyfill-b055a39fdf17d730ea48.js"
   },
   {
-    "url": "styles.b94d911fdec959d60055.css"
+    "url": "styles.17b3e55e8408fbc5d7ce.css"
   },
   {
     "url": "styles-474c0340beb1ced255f1.js"
@@ -58,7 +58,7 @@ self.__precacheManifest = [
     "url": "a9a7754c-21b30b1bbd0164a7ef7c.js"
   },
   {
-    "url": "de5d1ec2b3494da8c5f36adade182d818073e173-ca09bacffe5f475a42d6.js"
+    "url": "de5d1ec2b3494da8c5f36adade182d818073e173-7dbb21367d279a90e369.js"
   },
   {
     "url": "1412f27805f833e8c7f8a2743fd97427d9836162-ccab39958455cbe042eb.js"
@@ -68,11 +68,15 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "4eeb326244ef4f6d601d3c5653e9358b"
+    "revision": "b41c7b7b39d6ccce9208b16297a3e18e"
   },
   {
     "url": "page-data/sq/d/1984615537.json",
     "revision": "12fe46ee2263605bc7266c02c134a7c5"
+  },
+  {
+    "url": "page-data/sq/d/2337939889.json",
+    "revision": "5f3d43298513b0afeb90c274f7d83f64"
   },
   {
     "url": "page-data/sq/d/2491335609.json",
@@ -120,42 +124,42 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "874d25e616b99cc3a4d41ede7f662ad9"
+    "revision": "71e3e0cd4ca9d7a3e02ad56ef3cccc63"
   },
   {
     "url": "component---src-templates-blog-year-month-year-js-72cbed1b73c9d4cb7294.js"
   },
   {
     "url": "page-data/blog/2020/page-data.json",
-    "revision": "dde5af4aa1ae756c80ead41fe454644d"
+    "revision": "236e55583ca0bd5cd48557ba410e8c31"
   },
   {
     "url": "component---src-templates-blog-blog-js-8a2318cc947abe85f71a.js"
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "3740ca2cb7a942898fdb5a8e59d3a790"
+    "revision": "07893a22f46fc8e01f003945c261dfc4"
   },
   {
     "url": "component---src-templates-blog-mystic-apes-js-dd0678b0330d931a2740.js"
   },
   {
     "url": "page-data/blog/mysticape/page-data.json",
-    "revision": "7261e104d930bc7b3fa17ba6925e18cf"
+    "revision": "35b713f060f36e38576cc6c7b0f35101"
   },
   {
     "url": "component---src-templates-blog-series-js-aac0512598eafa93944f.js"
   },
   {
     "url": "page-data/blog/series/page-data.json",
-    "revision": "69fac88db050e4a3faa3ab744ee73eff"
+    "revision": "9459149ae638b18341f08123e0536acc"
   },
   {
     "url": "component---src-templates-blog-tag-js-a7f6a9c203eafaa5b934.js"
   },
   {
     "url": "page-data/blog/tag/page-data.json",
-    "revision": "fa400ed1bed8d625ba967331d780c7ab"
+    "revision": "22f812db83e12e167b087fffc1b38732"
   },
   {
     "url": "manifest.webmanifest",
