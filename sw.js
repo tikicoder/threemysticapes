@@ -27,17 +27,17 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-6d4e9b2231166ab2f485.js"
+    "url": "webpack-runtime-8967afaf95d34952f5b0.js"
   },
   {
-    "url": "framework-16bc5478e030ce10c05d.js"
+    "url": "framework-0d76cc96511f69a85a0c.js"
   },
   {
-    "url": "app-685caf41683c14cb0a79.js"
+    "url": "app-9767f7d355ba2f1bbca4.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "cf0c901ededbc68c54e00166646bbca4"
+    "revision": "c8c9bbec72926db60cabca00dfcd11cd"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js"
@@ -58,13 +58,13 @@ self.__precacheManifest = [
     "url": "a9a7754c-21b30b1bbd0164a7ef7c.js"
   },
   {
-    "url": "de5d1ec2b3494da8c5f36adade182d818073e173-63cf6bd7289ca9ed2ac8.js"
+    "url": "de5d1ec2b3494da8c5f36adade182d818073e173-bcd8c98b1f520c155956.js"
   },
   {
-    "url": "1412f27805f833e8c7f8a2743fd97427d9836162-ccab39958455cbe042eb.js"
+    "url": "1412f27805f833e8c7f8a2743fd97427d9836162-8965dd521ee333829263.js"
   },
   {
-    "url": "component---src-templates-page-page-js-b6055e438d02afbe8dda.js"
+    "url": "component---src-templates-page-page-js-f773068c791cc0d4684c.js"
   },
   {
     "url": "page-data/index/page-data.json",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/3424372577.json",
-    "revision": "f848f70f06d9d0e82379ed8384733d12"
+    "revision": "aeacfdf89df5d48ff912b08746693929"
   },
   {
     "url": "page-data/sq/d/350099740.json",
@@ -124,38 +124,38 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "19c22c8b78344df8f49589e752601c8c"
+    "revision": "a85222ae329aa719de41c4fcc736cad2"
   },
   {
-    "url": "component---src-templates-blog-year-month-year-js-72cbed1b73c9d4cb7294.js"
+    "url": "component---src-templates-blog-year-month-year-js-41ce876b83fe78660895.js"
   },
   {
     "url": "page-data/blog/2020/page-data.json",
     "revision": "236e55583ca0bd5cd48557ba410e8c31"
   },
   {
-    "url": "component---src-templates-blog-blog-js-8a2318cc947abe85f71a.js"
+    "url": "component---src-templates-blog-blog-js-16f08df505dd4d981437.js"
   },
   {
     "url": "page-data/blog/page-data.json",
     "revision": "07893a22f46fc8e01f003945c261dfc4"
   },
   {
-    "url": "component---src-templates-blog-mystic-apes-js-dd0678b0330d931a2740.js"
+    "url": "component---src-templates-blog-mystic-apes-js-419a4bb829e0247a0190.js"
   },
   {
     "url": "page-data/blog/mysticape/page-data.json",
     "revision": "35b713f060f36e38576cc6c7b0f35101"
   },
   {
-    "url": "component---src-templates-blog-series-js-aac0512598eafa93944f.js"
+    "url": "component---src-templates-blog-series-js-d28df444da9b130bff22.js"
   },
   {
     "url": "page-data/blog/series/page-data.json",
     "revision": "9459149ae638b18341f08123e0536acc"
   },
   {
-    "url": "component---src-templates-blog-tag-js-a7f6a9c203eafaa5b934.js"
+    "url": "component---src-templates-blog-tag-js-99f4191d60f9630a6aa1.js"
   },
   {
     "url": "page-data/blog/tag/page-data.json",
@@ -255,7 +255,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-685caf41683c14cb0a79.js`))) {
+  if (!resources || !(await caches.match(`/app-9767f7d355ba2f1bbca4.js`))) {
     return await fetch(event.request)
   }
 
