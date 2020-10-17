@@ -68,11 +68,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "b41c7b7b39d6ccce9208b16297a3e18e"
+    "revision": "37506ea72110e0595642883ad7872aee"
   },
   {
     "url": "page-data/sq/d/1984615537.json",
-    "revision": "12fe46ee2263605bc7266c02c134a7c5"
+    "revision": "8cfd4e94cea9c94e898637e99cf7f55d"
   },
   {
     "url": "page-data/sq/d/2337939889.json",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/3424372577.json",
-    "revision": "aeacfdf89df5d48ff912b08746693929"
+    "revision": "f848f70f06d9d0e82379ed8384733d12"
   },
   {
     "url": "page-data/sq/d/350099740.json",
@@ -131,14 +131,14 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/2020/page-data.json",
-    "revision": "236e55583ca0bd5cd48557ba410e8c31"
+    "revision": "1df6c599401f9366782646a1e72ac960"
   },
   {
     "url": "component---src-templates-blog-blog-js-16f08df505dd4d981437.js"
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "07893a22f46fc8e01f003945c261dfc4"
+    "revision": "c249c8c80a83b3cd4297ca6970bd29f7"
   },
   {
     "url": "component---src-templates-blog-mystic-apes-js-419a4bb829e0247a0190.js"
@@ -152,7 +152,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/series/page-data.json",
-    "revision": "9459149ae638b18341f08123e0536acc"
+    "revision": "f44ef3dc5244eb4576e92a9bcfe9db35"
   },
   {
     "url": "component---src-templates-blog-tag-js-99f4191d60f9630a6aa1.js"
