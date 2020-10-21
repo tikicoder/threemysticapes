@@ -37,7 +37,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "d99856495a0b968a6b0e308db8c0b074"
+    "revision": "e4b54dc10d91ddda5da79758b3c94a57"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js"
@@ -68,7 +68,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "b41c7b7b39d6ccce9208b16297a3e18e"
+    "revision": "c1f9df287b10c808586404a62b8bdffb"
   },
   {
     "url": "page-data/sq/d/1984615537.json",
@@ -131,35 +131,35 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/2020/page-data.json",
-    "revision": "236e55583ca0bd5cd48557ba410e8c31"
+    "revision": "ff75990cb9bff5d0084017ed9ce98da9"
   },
   {
     "url": "component---src-templates-blog-blog-js-16f08df505dd4d981437.js"
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "07893a22f46fc8e01f003945c261dfc4"
+    "revision": "016076be8e94ee808ba6d82c9a94eb3e"
   },
   {
     "url": "component---src-templates-blog-mystic-apes-js-419a4bb829e0247a0190.js"
   },
   {
     "url": "page-data/blog/mysticape/page-data.json",
-    "revision": "35b713f060f36e38576cc6c7b0f35101"
+    "revision": "ba57b250915964fb3251187c1b181dbc"
   },
   {
     "url": "component---src-templates-blog-series-js-d28df444da9b130bff22.js"
   },
   {
     "url": "page-data/blog/series/page-data.json",
-    "revision": "9459149ae638b18341f08123e0536acc"
+    "revision": "372c116519820c0a887cc8559625e8b6"
   },
   {
     "url": "component---src-templates-blog-tag-js-99f4191d60f9630a6aa1.js"
   },
   {
     "url": "page-data/blog/tag/page-data.json",
-    "revision": "22f812db83e12e167b087fffc1b38732"
+    "revision": "5e8e0e9b6744e7cf988f682531fa8faf"
   },
   {
     "url": "manifest.webmanifest",
