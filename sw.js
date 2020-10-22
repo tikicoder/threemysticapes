@@ -37,7 +37,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "e4b54dc10d91ddda5da79758b3c94a57"
+    "revision": "0bf36ed2d9bf8c57f8213809c144ea60"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js"
@@ -68,7 +68,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "c1f9df287b10c808586404a62b8bdffb"
+    "revision": "2481dd52125b3033e1257c41e5de008a"
   },
   {
     "url": "page-data/sq/d/1984615537.json",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/547522633.json",
-    "revision": "a3627cc9448cd9b7d0b3f0f4c667be71"
+    "revision": "027353b3efb73b3e37bd71f9d3f0b016"
   },
   {
     "url": "page-data/sq/d/63159454.json",
@@ -131,14 +131,14 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/2020/page-data.json",
-    "revision": "ff75990cb9bff5d0084017ed9ce98da9"
+    "revision": "398e37574c9446993ad801340bcfcfa3"
   },
   {
     "url": "component---src-templates-blog-blog-js-16f08df505dd4d981437.js"
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "016076be8e94ee808ba6d82c9a94eb3e"
+    "revision": "3234f8ce6a54bda248595480507a7f38"
   },
   {
     "url": "component---src-templates-blog-mystic-apes-js-419a4bb829e0247a0190.js"
@@ -152,7 +152,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/series/page-data.json",
-    "revision": "372c116519820c0a887cc8559625e8b6"
+    "revision": "000d81894bd608ebebd7641e75d50e28"
   },
   {
     "url": "component---src-templates-blog-tag-js-99f4191d60f9630a6aa1.js"
