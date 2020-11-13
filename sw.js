@@ -33,11 +33,11 @@ self.__precacheManifest = [
     "url": "framework-2674486bf225d6eb4cc9.js"
   },
   {
-    "url": "app-e2779e4296617fd42709.js"
+    "url": "app-60f4334092a170b72767.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "4fe6d42bc1682934b4bba6952995d1b2"
+    "revision": "0feb9301a4d0e61242855595456201dc"
   },
   {
     "url": "fontawesome-css.css"
@@ -46,7 +46,7 @@ self.__precacheManifest = [
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js"
   },
   {
-    "url": "polyfill-2d3ce53a5e5e202ab284.js"
+    "url": "polyfill-9690c0d81cbfb5c3a940.js"
   },
   {
     "url": "styles.17b3e55e8408fbc5d7ce.css"
@@ -71,7 +71,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "c58405ee5e9fb8ce6d804adacc8717bd"
+    "revision": "259a197c18b3c63de9614173dd8df7a6"
   },
   {
     "url": "page-data/sq/d/1984615537.json",
@@ -111,7 +111,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/547522633.json",
-    "revision": "93a96cb7f0de373068bca23c7119adbd"
+    "revision": "69de7f64343bbf0a30d6b5c499457a6a"
   },
   {
     "url": "page-data/sq/d/63159454.json",
@@ -127,21 +127,21 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "57d0fd6896a016e04f08bd4f342eae04"
+    "revision": "70e8d768a49e0aefc4d96afadc5f4396"
   },
   {
     "url": "component---src-templates-blog-year-month-year-js-41ce876b83fe78660895.js"
   },
   {
     "url": "page-data/blog/2020/page-data.json",
-    "revision": "e836e4d9b8618764b676132248a7be30"
+    "revision": "2e5b3777888f94d31412e7b83dd41edc"
   },
   {
     "url": "component---src-templates-blog-blog-js-16f08df505dd4d981437.js"
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "59e6fb020127f9b527aedb2b93103da6"
+    "revision": "02c4ec984cc28b91b2481f0953cd869a"
   },
   {
     "url": "component---src-templates-blog-mystic-apes-js-419a4bb829e0247a0190.js"
@@ -155,7 +155,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/series/page-data.json",
-    "revision": "21c75d50efcc17d15d381ee8e60cb23c"
+    "revision": "1579a09191edd180544b91a45530c245"
   },
   {
     "url": "component---src-templates-blog-tag-js-99f4191d60f9630a6aa1.js"
@@ -258,7 +258,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-e2779e4296617fd42709.js`))) {
+  if (!resources || !(await caches.match(`/app-60f4334092a170b72767.js`))) {
     return await fetch(event.request)
   }
 
